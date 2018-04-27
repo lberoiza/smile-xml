@@ -21,7 +21,6 @@ import javax.xml.validation.SchemaFactory;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathFactory;
 
-import jline.Terminal;
 
 import org.jruby.Ruby;
 import org.jruby.RubyBoolean;
